@@ -1,4 +1,4 @@
-# Snupe-s-Dice
+# Snupe-s-Dice Game
 <h1>This is a Dice game built with JavaScript⚡</h1>
 
 <p>The game runs on a cute logic💭 built with Javascript. It is a multiplayer game, which means you can play it with a friend. </p>

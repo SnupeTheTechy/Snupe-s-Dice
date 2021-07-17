@@ -1,8 +1,8 @@
-# Snupe-s-Dice Game
+# 🎲Snupe-s-Dice Game
 <img src="https://github.com/SnupeTheTechy/Snupe-s-Dice/blob/main/Snapshot_21-07-17_21-13-34.png">
 <h1>This is a Dice game built with JavaScript⚡</h1>
 
-<p>The game runs on a cute logic💭 built with Javascript. It is a multiplayer game, which means you can play it with a friend. </p>
+<p>The game🎲 runs on a cute logic💭 built with Javascript. It is a multiplayer game, which means you can play it with a friend. </p>
 <p>Very interesting an cool🍿.</p>
 <p>To build this game, some main basics of CSS was used for the styling🤩, mainly Flex Box and more.</p>
 <p>Javascript is the King in this game as the game contains works on 
